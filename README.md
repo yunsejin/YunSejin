@@ -8,7 +8,7 @@
     Birth : 2000.02.14 <br>
     E-mail : ysj1375@naver.com <br>
     </h3>
-  <em>
+  </em>
 </p>
 <h2>학력</h2>
 
