@@ -30,12 +30,14 @@
 * <p> 2020 - 육군 통신병 만기제대, 주둔지 CCTV 정비 표창, 음어 경연대회 표창
 * <p> 2021 - 라즈베리파이 RPI와 수온 감지 센서로 각종 경보기 제작
 * <p> 2022 - JAVA 게임 제작, 인공지능을 이용한 과일도감 제작
+<br>
   
 <h2>자격증</h2>
     
 * <p> HSK 2급
 * <p> 정보처리기사
-    
+<br>
+  
 <h2>Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
