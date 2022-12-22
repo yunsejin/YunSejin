@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?)
+![header](https://capsule-render.vercel.app/api?color=#0000FF)
 
 <img align="right" src="https://user-images.githubusercontent.com/100738553/208301785-1957d865-c807-4078-87af-e13099e6ae97.jpg" width="300"/>
 
