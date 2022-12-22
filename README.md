@@ -1,10 +1,3 @@
-<html class="js">
-<head>
-  <meta charset="utf-8">
-  <script type="application/Id+json">
-    
-  </script>
-</head>
 <img align="right" src="https://user-images.githubusercontent.com/100738553/208301785-1957d865-c807-4078-87af-e13099e6ae97.jpg" width="300"/>
 
 <h1>윤세진</h1>
@@ -37,7 +30,7 @@
 * <p> 2020 - 육군 통신병 만기제대, 주둔지 CCTV 정비 표창, 음어 경연대회 표창
 * <p> 2021 - 라즈베리파이 RPI와 수온 감지 센서로 각종 경보기 제작
 * <p> 2022 - JAVA 게임 제작, 인공지능을 이용한 과일도감 제작
-* <p><span style="color:blue"> 2023 - 졸업프로젝트</span>
+* <p style="color:blue"> 2023 - 졸업프로젝트
 <br>
   
 <h2>자격증</h2>
