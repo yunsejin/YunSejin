@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=#0000FF)
+![header](https://capsule-render.vercel.app/api?type=slice color="blue")
 
 <img align="right" src="https://user-images.githubusercontent.com/100738553/208301785-1957d865-c807-4078-87af-e13099e6ae97.jpg" width="300"/>
 
@@ -49,4 +49,3 @@
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 <br>
-![footer](https://capsule-render.vercel.app/api?)
