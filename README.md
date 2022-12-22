@@ -1,9 +1,5 @@
 <img align="right" src="https://user-images.githubusercontent.com/100738553/208301785-1957d865-c807-4078-87af-e13099e6ae97.jpg" width="300"/>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-![footer](https://capsule-render.vercel.app/api?text=Hello%resume=d6ace6)
-
 <h1>윤세진</h1>
 
 <p>
@@ -51,3 +47,4 @@
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 <br>
+![footer](https://capsule-render.vercel.app/api?text=resume)
