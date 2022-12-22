@@ -14,7 +14,7 @@
 
 * <p> 2018. 02 부흥고등학교 졸업
 * <p> 2022. 02 유원대학교 자동차소프트웨어학과 2학년 수료
-* <p><fd> 2024. 02 한세대학교 컴퓨터공학과 졸업예정</fd>
+* <p> 2024. 02 한세대학교 컴퓨터공학과 졸업예정 <img src=https://placehold.co/15x15/1589F0/1589F0.png>
 <br>
     
 <h2>동아리 활동</h2>
@@ -30,13 +30,14 @@
 * <p> 2020 - 육군 통신병 만기제대, 주둔지 CCTV 정비 표창, 음어 경연대회 표창
 * <p> 2021 - 라즈베리파이 RPI와 수온 감지 센서로 각종 경보기 제작
 * <p> 2022 - JAVA 게임 제작, 인공지능을 이용한 과일도감 제작
-* <p style="color:blue"> 2023 - 졸업프로젝트</p>
+* <p> 2023 - 졸업프로젝트 <img src=https://placehold.co/15x15/1589F0/1589F0.png>
+
 <br>
   
 <h2>자격증</h2>
     
-* <p> HSK 2급
-* <p> 정보처리기사
+* <p> HSK 2급 <img src=https://placehold.co/15x15/1589F0/1589F0.png>
+* <p> 정보처리기사 <img src=https://placehold.co/15x15/1589F0/1589F0.png>
 <br>
   
 <h2>Tech Stack</h2>
@@ -47,3 +48,5 @@
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 <br>
+</body>
+</html>
