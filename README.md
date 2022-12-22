@@ -1,5 +1,5 @@
 <img align="right" src="https://user-images.githubusercontent.com/100738553/208301785-1957d865-c807-4078-87af-e13099e6ae97.jpg" width="300"/>
-
+<style fd>color ="blue"</style>
 <h1>윤세진</h1>
 
 <p>
@@ -14,7 +14,7 @@
 
 * <p> 2018. 02 부흥고등학교 졸업
 * <p> 2022. 02 유원대학교 자동차소프트웨어학과 2학년 수료
-* <p> 2024. 02 한세대학교 컴퓨터공학과 졸업예정
+* <p><fd> 2024. 02 한세대학교 컴퓨터공학과 졸업예정</fd>
 <br>
     
 <h2>동아리 활동</h2>
