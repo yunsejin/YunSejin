@@ -30,13 +30,13 @@
 * <p> 2021 - 라즈베리파이 RPI와 수온 감지 센서로 각종 경보기 제작
 * <p> 2022 - JAVA 게임 제작, 인공지능을 이용한 과일도감 제작
   https://github.com/yunsejin/rasb/wiki
-* <p> 2023 - 졸업프로젝트 <img src=https://placehold.co/15x15/1589F0/1589F0.png>
+* <p> 2023 - 졸업프로젝트
+  https://github.com/yunsejin/gradproj/wiki
 
 <br>
   
 <h2>자격증</h2>
     
-* <p> HSK 2급 <img src=https://placehold.co/15x15/1589F0/1589F0.png>
 * <p> 정보처리기사 <img src=https://placehold.co/15x15/1589F0/1589F0.png>
 <br>
   
