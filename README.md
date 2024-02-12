@@ -6,6 +6,7 @@
     <h3>
     Birth : 2000.02.14 <br>
     E-mail : ysj1375@naver.com <br>
+    Blog : https://blog.naver.com/the-ze<br>
     </h3>
   </em>
 </p>
@@ -28,11 +29,9 @@
 * <p> 2018 - 아두이노 후방 감지 센서 제작, Python 게임 제작
 * <p> 2020 - 육군 통신병 만기제대, 주둔지 CCTV 정비 표창, 음어 경연대회 표창
 * <p> 2021 - 라즈베리파이 RPI와 수온 감지 센서로 각종 경보기 제작
-* <p> 2022 - JAVA 게임 제작(processing), 인공지능을 이용한 과일등급 판정 프로그램 제작
-  https://github.com/yunsejin/rasb/wiki
-* <p> 2023 - 각종 예측모델로 데이터 예측, typescript scss firebase 모바일 게시판 제작, opencv 특정 색만 추출된 영상 출력 프로그램 제작
-  https://github.com/yunsejin/gradproj/wiki
-* <p> 2024 - jwt jinja2 웹에서 렌더링되는 게임 제작, 크래프톤 정글 프로그램 진행중
+* <p> 2022 - JAVA 게임 제작(processing), 인공지능을 이용한 과일등급 판정 프로그램 제작(https://github.com/yunsejin/rasb/wiki)
+* <p> 2023 - 각종 예측모델로 데이터 예측(https://github.com/yunsejin/gradproj/wiki), (Typescript, scss, Firebase)사용한 모바일 게시판 제작(https://github.com/project-EveryOUR/everyOur-React), opencv 특정 색만 추출된 영상 출력 프로그램 제작
+* <p> 2024 - (JWT, Jinja2)사용한 웹에서 렌더링되는 게임 제작(https://github.com/JeongJongMun/JungleGap), 크래프톤 정글 프로그램 진행중
 <br>
   
 <h2>자격증</h2>
