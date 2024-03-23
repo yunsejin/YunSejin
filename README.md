@@ -4,7 +4,7 @@
     <h3>
     Birth : 2000.02.14 <br>
     E-mail : ysj1375@naver.com <br>
-    Blog : https://blog.naver.com/the-ze<br>
+    Blog : [https://blog.naver.com/the-ze](https://the-ze.tistory.com/)<br>
     </h3>
   </em>
 </p>
