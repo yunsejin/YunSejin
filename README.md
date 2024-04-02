@@ -63,5 +63,7 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 <br>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysj1375)](https://solved.ac/ysj1375)
 </body>
 </html>
