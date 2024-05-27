@@ -36,28 +36,13 @@
 * <p> 각종 예측모델로 데이터 예측(https://github.com/yunsejin/gradproj/wiki)
 * <p> 모바일 대학 게시판 제작(https://github.com/project-EveryOUR/everyOur-React)
 * <p> 웹에서 렌더링되는 게임 제작(https://github.com/JeongJongMun/JungleGap)
-* <p> 크롬 익스텐션 학습 도우미 제작(https://github.com/orgs/makeMyOwnWeapon/repositories)
+* <p> 크롬 익스텐션 학습 도우미 제작(https://github.com/makeMyOwnWeapon)
 <br>
   
 <h2>경력</h2>
   
 * <p> 2023. 01 ~ 2023. 06 파란글로벌 해외배송관련 데이터 관리, 자동 게시글 등록 프로그램 관리
 * <p> 2023. 06 ~ 2023. 08 시냅스이미징 AOI 고해상도 영상처리 프로그램 데이터 관리 및 결함관리
-<br>
-  
-<h2>Tech Stack</h2>
-  
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-cf649a?style=for-the-badge&logo=SASS&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
 <br>
 
 <h2>Baekjoon</h2>
