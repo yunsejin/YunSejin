@@ -4,7 +4,7 @@
 
 I work across software development and enterprise communications infrastructure, building tools that connect web applications, telephony systems, and day-to-day operations.
 
-Since joining CLUM in August 2024, my work has expanded into PBX maintenance and upgrade workflows, call recording and IVR management, and automation for repetitive administration tasks. My recent projects also include Android SIP phone prototypes and web interfaces for managing devices and content.
+Since joining CLUEM in August 2024, my work has expanded into PBX maintenance and upgrade workflows, call recording and IVR management, and automation for repetitive administration tasks. My recent projects also include Android SIP phone prototypes and web interfaces for managing devices and content.
 
 I enjoy tracing problems across application code, server logs, and device behavior, then turning what I learn into practical tools and clearer operating procedures.
 
@@ -12,7 +12,7 @@ I enjoy tracing problems across application code, server logs, and device behavi
 
 ## Professional Experience
 
-### CLUM Co., Ltd.
+### CLUEM Co., Ltd.
 
 **Aug 2024 – Present**
 
